@@ -3,10 +3,10 @@
 <bookmarks>
     <bookmark nodeId="ID_696401721" name="Raíz" opensAsRoot="true"/>
 </bookmarks>
-<node TEXT="Ciencia de datos" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1730129030146" STYLE="oval">
+<node TEXT="Ciencia de datos" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1787188086746" STYLE="oval" CHILD_NODES_LAYOUT="AUTO">
 <font SIZE="18"/>
 <hook NAME="MapStyle">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_tags="UNDER_NODES" associatedTemplateLocation="template:/standard-1.6.mm" show_note_icons="true" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false"/>
+    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_tags="UNDER_NODES" associatedTemplateLocation="template:/standard-1.6.mm" show_note_icons="true" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false" auto_compact_layout="false"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -77,7 +77,7 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="24" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="CONCEPTOS, HABILIDADES, HERRAMIENTAS Y APLICACIONES" POSITION="bottom_or_right" ID="ID_583579623" CREATED="1739805086158" MODIFIED="1739813195371" CHILD_NODES_LAYOUT="AUTO">
+<node TEXT="CONCEPTOS, HABILIDADES, HERRAMIENTAS Y APLICACIONES" FOLDED="true" POSITION="bottom_or_right" ID="ID_583579623" CREATED="1739805086158" MODIFIED="1787188046327" CHILD_NODES_LAYOUT="TOPTOBOTTOM_BOTHSIDES_STACKEDAUTO">
 <edge COLOR="#7c007c"/>
 <node TEXT="Definición" FOLDED="true" POSITION="top_or_left" ID="ID_1625245270" CREATED="1730129035780" MODIFIED="1739806668948">
 <node TEXT="Tiene sus orígenes al final de la primera década del siglo XXI" ID="ID_470508810" CREATED="1730129153751" MODIFIED="1730129230883"/>
@@ -156,8 +156,8 @@
 <node TEXT="IBM: &quot;El proceso de utilizar algoritmos, métodos  sistemas para extraer conocimiento e ideas de datos estructurados y no estructurados. Puede ser utilizada para hacer predicciones y decisiones utilizando analítica y Aprendizaje Automático&quot;." ID="ID_684913924" CREATED="1730131684584" MODIFIED="1730131818133"/>
 <node TEXT="La Ciencia de Datos se puede considerar como un campo de estudio que implica la recolección, almacenamiento, procesamiento, análisis y la visualización de datos, con el objeto de deducir información y conocimientos importantes en la resolución de problemas o proyecto específico. Tales datos pueden ser generados por humanos (informes, estudios, logs de la web) o las máquinas (datos del tiempo, visión, etc.). Se considerará como un campo o disciplica independiente que está integrado y converge con otros dominios como las matemáticas, la estadística, la programación, las ciencias de la computación, Big Data, la IA, el Aprendizaje Automático, la Internet de las Cosas y la transversalidd de la ciberseguridad y Blockchain." ID="ID_1697486399" CREATED="1730131818722" MODIFIED="1730132180792"/>
 </node>
-<node TEXT="Dominios y aplicaciones de la Ciencia de Datos" POSITION="top_or_left" ID="ID_1401986620" CREATED="1730129117930" MODIFIED="1739806676370">
-<node TEXT="Aplicaciones" ID="ID_1186446307" CREATED="1730132346400" MODIFIED="1730132350191">
+<node TEXT="Dominios y aplicaciones de la Ciencia de Datos" FOLDED="true" POSITION="top_or_left" ID="ID_1401986620" CREATED="1730129117930" MODIFIED="1739806676370">
+<node TEXT="Aplicaciones" FOLDED="true" ID="ID_1186446307" CREATED="1730132346400" MODIFIED="1730132350191">
 <node TEXT="Finanzas" ID="ID_544463973" CREATED="1730132410441" MODIFIED="1730132828478"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -258,7 +258,7 @@
 <node TEXT="KNIME" ID="ID_1943727345" CREATED="1730134518519" MODIFIED="1730134522300"/>
 <node TEXT="WEKA" ID="ID_550644388" CREATED="1730134523020" MODIFIED="1730134524816"/>
 </node>
-<node TEXT="Roles profesionales relacionados con datos y certificaciones profesionales" POSITION="top_or_left" ID="ID_1725545331" CREATED="1730135238291" MODIFIED="1739806742535">
+<node TEXT="Roles profesionales relacionados con datos y certificaciones profesionales" FOLDED="true" POSITION="top_or_left" ID="ID_1725545331" CREATED="1730135238291" MODIFIED="1739806742535">
 <node TEXT="Analista de datos" ID="ID_502539755" CREATED="1730135261878" MODIFIED="1730135268342"/>
 <node TEXT="Ingeniero de datos" ID="ID_457472333" CREATED="1730135268777" MODIFIED="1730135273696"/>
 <node TEXT="Ingeniero de Big Data" ID="ID_182293067" CREATED="1730135274046" MODIFIED="1730135285536"/>
@@ -273,7 +273,7 @@
 <node TEXT="Director o delegado de protección de datos (DPO, Data Protection Officer)" ID="ID_710948018" CREATED="1730135590520" MODIFIED="1730135623462"/>
 <node TEXT="Director de transformación digital (CTO, Chief Transformation Officer)" ID="ID_35009059" CREATED="1730135634574" MODIFIED="1730135678928"/>
 </node>
-<node TEXT="Certificaciones profesionales de Data Science" ID="ID_111721044" CREATED="1730135729108" MODIFIED="1730135743810">
+<node TEXT="Certificaciones profesionales de Data Science" FOLDED="true" ID="ID_111721044" CREATED="1730135729108" MODIFIED="1730135743810">
 <node TEXT="Certified Analytics Professional (CAP)" ID="ID_430592547" CREATED="1730135746692" MODIFIED="1730135763487"/>
 <node TEXT="Cloudera Certified Professiional: Data Scientist (CEP: DS)" ID="ID_67796288" CREATED="1730135763874" MODIFIED="1730135799203"/>
 <node TEXT="EMC Data Science Associate (EMCDSA)" ID="ID_427917070" CREATED="1730135799792" MODIFIED="1730135844628"/>
@@ -316,7 +316,7 @@
 <node TEXT="Inteligencia Artificial Conversacional e Inteligencia Artificial Generativa" ID="ID_548381546" CREATED="1730137799729" MODIFIED="1730137826259"/>
 </node>
 </node>
-<node TEXT="EL ECOSISTEMA DE DATOS: BIG DATA" POSITION="bottom_or_right" ID="ID_40899648" CREATED="1739805125825" MODIFIED="1739805163535">
+<node TEXT="EL ECOSISTEMA DE DATOS: BIG DATA" FOLDED="true" POSITION="bottom_or_right" ID="ID_40899648" CREATED="1739805125825" MODIFIED="1739805163535">
 <edge COLOR="#007c7c"/>
 <node TEXT="Crecimiento exponencial de datos" FOLDED="true" ID="ID_735622042" CREATED="1739805188775" MODIFIED="1739805202548">
 <node TEXT="Fuentes que añaden ingentes cantidades de datos" FOLDED="true" ID="ID_1423647643" CREATED="1739805207153" MODIFIED="1739805254818">
@@ -336,7 +336,7 @@
 <node TEXT="Datos personales, datos de texto" ID="ID_246733780" CREATED="1739805652661" MODIFIED="1739805660081"/>
 </node>
 </node>
-<node TEXT="Fuentes de datos" ID="ID_752732453" CREATED="1739805683128" MODIFIED="1739805691210">
+<node TEXT="Fuentes de datos" FOLDED="true" ID="ID_752732453" CREATED="1739805683128" MODIFIED="1739805691210">
 <node TEXT="Datos de fuentes pasivas" ID="ID_663033526" CREATED="1739805692615" MODIFIED="1739805869388"><richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -504,7 +504,7 @@
 <node TEXT="Visualización de datos" ID="ID_892003105" CREATED="1739808207409" MODIFIED="1739808215010"/>
 </node>
 </node>
-<node TEXT="Tecnologías y herramientas de Big Data" ID="ID_985498231" CREATED="1739808234447" MODIFIED="1739808248196">
+<node TEXT="Tecnologías y herramientas de Big Data" FOLDED="true" ID="ID_985498231" CREATED="1739808234447" MODIFIED="1739808248196">
 <node TEXT="Hadoop" ID="ID_438930899" CREATED="1739808278553" MODIFIED="1739808503124"><richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -520,7 +520,7 @@
 <node TEXT="Spark" ID="ID_1566694613" CREATED="1739808289851" MODIFIED="1739808292756"/>
 <node TEXT="Lambda" ID="ID_290810670" CREATED="1739808306577" MODIFIED="1739808310438"/>
 <node TEXT="Bases de datos NoSQL y en memoria" ID="ID_427695103" CREATED="1739808345466" MODIFIED="1739808370008"/>
-<node TEXT="Herramientas de visualización" ID="ID_724446767" CREATED="1739808391579" MODIFIED="1739808400539">
+<node TEXT="Herramientas de visualización" FOLDED="true" ID="ID_724446767" CREATED="1739808391579" MODIFIED="1739808400539">
 <node TEXT="Tableau" ID="ID_121804366" CREATED="1739808401795" MODIFIED="1739808407544"/>
 <node TEXT="Qlikview" ID="ID_1096434888" CREATED="1739808408028" MODIFIED="1739808415943"/>
 <node TEXT="Gephi" ID="ID_550555051" CREATED="1739808416369" MODIFIED="1739808419723"/>
@@ -528,10 +528,10 @@
 </node>
 </node>
 </node>
-<node TEXT="EL PROCESO DE CICLO DE VIDA DE LA CIENCIA DE DATOS Y LOS CIENTÍFICOS DE DATOS" POSITION="bottom_or_right" ID="ID_1661144947" CREATED="1739808561349" MODIFIED="1739808588515">
+<node TEXT="EL PROCESO DE CICLO DE VIDA DE LA CIENCIA DE DATOS Y LOS CIENTÍFICOS DE DATOS" FOLDED="true" POSITION="bottom_or_right" ID="ID_1661144947" CREATED="1739808561349" MODIFIED="1739808588515">
 <edge COLOR="#7c7c00"/>
 <node TEXT="Minería de datos y Ciencia de datos" ID="ID_1974204455" CREATED="1739808611685" MODIFIED="1739808626846"/>
-<node TEXT="Proceso tradicional de Ciencia de Datos" ID="ID_463820591" CREATED="1739808636661" MODIFIED="1739808654928">
+<node TEXT="Proceso tradicional de Ciencia de Datos" FOLDED="true" ID="ID_463820591" CREATED="1739808636661" MODIFIED="1739808654928">
 <node TEXT="Comprensión del negocio" ID="ID_427606680" CREATED="1739808670140" MODIFIED="1787179936206"><richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -562,7 +562,7 @@
 <node TEXT="Verificar calidad de los datos" ID="ID_1821235467" CREATED="1739808788252" MODIFIED="1739808796130"/>
 </node>
 </node>
-<node TEXT="Preparación de los datos" ID="ID_1271996775" CREATED="1739808700725" MODIFIED="1787179954797"><richcontent TYPE="DETAILS" HIDDEN="true">
+<node TEXT="Preparación de los datos" FOLDED="true" ID="ID_1271996775" CREATED="1739808700725" MODIFIED="1787179954797"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -573,21 +573,21 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Características o factores fundamentales que hacen &quot;sucios&quot; los datos" ID="ID_1359678543" CREATED="1739809076724" MODIFIED="1739809120264">
+<node TEXT="Características o factores fundamentales que hacen &quot;sucios&quot; los datos" FOLDED="true" ID="ID_1359678543" CREATED="1739809076724" MODIFIED="1739809120264">
 <node TEXT="Incompletos (missing data)" ID="ID_1101323791" CREATED="1739809121851" MODIFIED="1739809133537"/>
 <node TEXT="Ruidosos (noisy data)" ID="ID_1938551922" CREATED="1739809133942" MODIFIED="1739809144661"/>
 <node TEXT="Inconsistentes (Inconsistent data)" ID="ID_84417846" CREATED="1739809145152" MODIFIED="1739809163868"/>
 </node>
-<node TEXT="Actividades importantes" ID="ID_764632189" CREATED="1739809172463" MODIFIED="1739809195660">
-<node TEXT="Limpieza de datos" ID="ID_1799438433" CREATED="1739809196853" MODIFIED="1739809206644">
-<node TEXT="Métodos clave para limpiar, organizar mejor para eliminar información potencialmente incorrecta, incompleta o duplicada" ID="ID_331842099" CREATED="1739809255529" MODIFIED="1739809350109">
+<node TEXT="Actividades importantes" FOLDED="true" ID="ID_764632189" CREATED="1739809172463" MODIFIED="1739809195660">
+<node TEXT="Limpieza de datos" FOLDED="true" ID="ID_1799438433" CREATED="1739809196853" MODIFIED="1739809206644">
+<node TEXT="Métodos clave para limpiar, organizar mejor para eliminar información potencialmente incorrecta, incompleta o duplicada" FOLDED="true" ID="ID_331842099" CREATED="1739809255529" MODIFIED="1739809350109">
 <node TEXT="Manipulación de datos (data mungling o data wrangling)" ID="ID_375325145" CREATED="1739809351545" MODIFIED="1739809377967"/>
 <node TEXT="Manejo de datos que faltan &quot;faltantes&quot; (handling missing data)" ID="ID_915488442" CREATED="1739809378805" MODIFIED="1739809404808"/>
 <node TEXT="Suavizar los datos ruidosos (smoosh noisy data)" ID="ID_558569818" CREATED="1739809405507" MODIFIED="1739809422450"/>
 </node>
 </node>
-<node TEXT="Integración de datos" ID="ID_1105737681" CREATED="1739809207178" MODIFIED="1739809213817">
-<node TEXT="Propuestas de integración de Shah" ID="ID_15583661" CREATED="1739809480072" MODIFIED="1739809495225">
+<node TEXT="Integración de datos" FOLDED="true" ID="ID_1105737681" CREATED="1739809207178" MODIFIED="1739809213817">
+<node TEXT="Propuestas de integración de Shah" FOLDED="true" ID="ID_15583661" CREATED="1739809480072" MODIFIED="1739809495225">
 <node TEXT="Combinar datos de multiples fuentes en un lugar de almacenamiento coherente (un único archivo o una única base de datos)" ID="ID_1645136729" CREATED="1739809527915" MODIFIED="1739809587715"/>
 <node TEXT="Detectar y resolver conflictos de valores de datos" ID="ID_174129993" CREATED="1739809588645" MODIFIED="1739809619920"/>
 <node TEXT="Abordar datos redundantes en la integración de datos" ID="ID_1069477233" CREATED="1739809639345" MODIFIED="1739809655832"/>
@@ -664,14 +664,14 @@
 </node>
 </node>
 <node TEXT="El proceso de ciencia de datos en equipo (TDSP) de Microsoft: Ciclo de vida" FOLDED="true" ID="ID_1179191417" CREATED="1739811113954" MODIFIED="1739811338301">
-<node TEXT="Fases" ID="ID_1325102766" CREATED="1739811161804" MODIFIED="1739811164017">
+<node TEXT="Fases" FOLDED="true" ID="ID_1325102766" CREATED="1739811161804" MODIFIED="1739811164017">
 <node TEXT="Conocimiento del negocio" ID="ID_640526699" CREATED="1739811165378" MODIFIED="1739811176708"/>
 <node TEXT="Adquisición y comprensión de datos" ID="ID_154638794" CREATED="1739811177456" MODIFIED="1739811188375"/>
 <node TEXT="Modelado" ID="ID_1991393696" CREATED="1739811188749" MODIFIED="1739811192128"/>
 <node TEXT="Implementación (despliegue)" ID="ID_1084002439" CREATED="1739811192609" MODIFIED="1739811202879"/>
 <node TEXT="Aceptación del cliente" ID="ID_1197419413" CREATED="1739811203786" MODIFIED="1739811209183"/>
 </node>
-<node TEXT="Recomendaciones de Microsoft en cada fase (se debe dar)" ID="ID_1237795067" CREATED="1739811244432" MODIFIED="1739811352097">
+<node TEXT="Recomendaciones de Microsoft en cada fase (se debe dar)" FOLDED="true" ID="ID_1237795067" CREATED="1739811244432" MODIFIED="1739811352097">
 <node TEXT="Objetivos" ID="ID_1478003855" CREATED="1739811273864" MODIFIED="1739811324605"><richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -698,8 +698,8 @@
 </node>
 </node>
 </node>
-<node TEXT="El Científico de datos: Rol profesional" ID="ID_368981171" CREATED="1739811474176" MODIFIED="1739811490841">
-<node TEXT="Funciones" ID="ID_1893938110" CREATED="1739811510468" MODIFIED="1739811521887">
+<node TEXT="El Científico de datos: Rol profesional" FOLDED="true" ID="ID_368981171" CREATED="1739811474176" MODIFIED="1739811490841">
+<node TEXT="Funciones" FOLDED="true" ID="ID_1893938110" CREATED="1739811510468" MODIFIED="1739811521887">
 <node TEXT="Extracción de datos" ID="ID_1618312886" CREATED="1739811522412" MODIFIED="1739811528513"/>
 <node TEXT="Limpieza de datos" ID="ID_512517609" CREATED="1739811528795" MODIFIED="1739811534977"/>
 <node TEXT="Procesamiento de datos" ID="ID_123277040" CREATED="1739811535240" MODIFIED="1739811541342"/>
@@ -707,8 +707,8 @@
 <node TEXT="Visualización de datos" ID="ID_1775952179" CREATED="1739811547351" MODIFIED="1739811554114"/>
 </node>
 </node>
-<node TEXT="Habilidades del científico de datos" ID="ID_868666645" CREATED="1739811568605" MODIFIED="1739811586401">
-<node TEXT="Habilidades técnicas duras (hard skills)" ID="ID_1082932577" CREATED="1739811588719" MODIFIED="1739811607003">
+<node TEXT="Habilidades del científico de datos" FOLDED="true" ID="ID_868666645" CREATED="1739811568605" MODIFIED="1739811586401">
+<node TEXT="Habilidades técnicas duras (hard skills)" FOLDED="true" ID="ID_1082932577" CREATED="1739811588719" MODIFIED="1739811607003">
 <node TEXT="Matemáticas" ID="ID_1842893817" CREATED="1739811608118" MODIFIED="1739811633409"/>
 <node TEXT="Estadísticas y probabilidades" ID="ID_828707957" CREATED="1739811633711" MODIFIED="1739811644222"/>
 <node TEXT="Programación (Python, R, SQL, etc.)" ID="ID_1626487884" CREATED="1739811644563" MODIFIED="1739811666990"/>
@@ -721,7 +721,7 @@
 <node TEXT="Visualización de datos" ID="ID_1679981594" CREATED="1739811791112" MODIFIED="1739811797038"/>
 <node TEXT="Modelado de datos y algoritmos" ID="ID_1216456314" CREATED="1739811799222" MODIFIED="1739811806449"/>
 </node>
-<node TEXT="Habilidades no técnicas/blandas (soft skills)" ID="ID_1547686786" CREATED="1739811817204" MODIFIED="1739811836030">
+<node TEXT="Habilidades no técnicas/blandas (soft skills)" FOLDED="true" ID="ID_1547686786" CREATED="1739811817204" MODIFIED="1739811836030">
 <node TEXT="Comunicación efectiva y social" ID="ID_1834370516" CREATED="1739811842363" MODIFIED="1739811856341"/>
 <node TEXT="Visión y perspicacia para los negocios (visión del negocio)" ID="ID_226360080" CREATED="1739811857763" MODIFIED="1739811875552"/>
 <node TEXT="Capacidad de resolución de problemas" ID="ID_224788980" CREATED="1739811904424" MODIFIED="1739811917026"/>
@@ -754,7 +754,7 @@
 <node TEXT="Data Science: R Basics de Harvard University" ID="ID_25660272" CREATED="1739812294835" MODIFIED="1739812315085"/>
 <node TEXT="MiriadaX: Introducción al Business Intelligence y al Big Data de la Universitat Oberta de Catalunya" ID="ID_1026637414" CREATED="1739812325412" MODIFIED="1739812407186"/>
 </node>
-<node TEXT="Certificaciones" ID="ID_200915225" CREATED="1739812412734" MODIFIED="1739812417837">
+<node TEXT="Certificaciones" FOLDED="true" ID="ID_200915225" CREATED="1739812412734" MODIFIED="1739812417837">
 <node TEXT="Data Science Certification de SaaS" ID="ID_1321273155" CREATED="1739812418452" MODIFIED="1739812438842"/>
 <node TEXT="Azure Data Scientist Associate de Microsoft" ID="ID_872191304" CREATED="1739812439402" MODIFIED="1739812458855"/>
 <node TEXT="IBM Data Science" ID="ID_999770070" CREATED="1739812459326" MODIFIED="1739812474768"/>
@@ -762,8 +762,8 @@
 </node>
 </node>
 </node>
-<node TEXT="Herramientas de la ciencia de datos y del científico de datos" ID="ID_1089590709" CREATED="1739812504629" MODIFIED="1739812551566">
-<node TEXT="Minería de datos y análisis de datos" ID="ID_974470239" CREATED="1739812554406" MODIFIED="1739812567054">
+<node TEXT="Herramientas de la ciencia de datos y del científico de datos" FOLDED="true" ID="ID_1089590709" CREATED="1739812504629" MODIFIED="1739812551566">
+<node TEXT="Minería de datos y análisis de datos" FOLDED="true" ID="ID_974470239" CREATED="1739812554406" MODIFIED="1739812567054">
 <node TEXT="RapidMiner" ID="ID_1915925851" CREATED="1739812568130" MODIFIED="1739812572891"/>
 <node TEXT="WEKA" ID="ID_1253814617" CREATED="1739812573303" MODIFIED="1739812576257"/>
 <node TEXT="Orange" ID="ID_1864547379" CREATED="1739812576639" MODIFIED="1739812580223"/>
@@ -772,13 +772,13 @@
 <node TEXT="IBM SPSS Modeller" ID="ID_297970959" CREATED="1739812587942" MODIFIED="1739812598846"/>
 <node TEXT="Google Analytics" ID="ID_1959076885" CREATED="1739812599842" MODIFIED="1739812608571"/>
 </node>
-<node TEXT="Visualización de datos" ID="ID_1795952309" CREATED="1739812613032" MODIFIED="1739812619157">
+<node TEXT="Visualización de datos" FOLDED="true" ID="ID_1795952309" CREATED="1739812613032" MODIFIED="1739812619157">
 <node TEXT="Tableau" ID="ID_738951010" CREATED="1739812619808" MODIFIED="1739812624349"/>
 <node TEXT="Qlik" ID="ID_914444785" CREATED="1739812625405" MODIFIED="1739812627384"/>
 <node TEXT="PowerBI" ID="ID_1996643341" CREATED="1739812628718" MODIFIED="1739812634810"/>
 <node TEXT="Excel" ID="ID_791619014" CREATED="1739812636660" MODIFIED="1739812638974"/>
 </node>
-<node TEXT="Lenguajes de programación" ID="ID_1728589604" CREATED="1739812641797" MODIFIED="1739812647627">
+<node TEXT="Lenguajes de programación" FOLDED="true" ID="ID_1728589604" CREATED="1739812641797" MODIFIED="1739812647627">
 <node TEXT="Python" ID="ID_1107948822" CREATED="1739812648519" MODIFIED="1739812651620"/>
 <node TEXT="R" ID="ID_635453112" CREATED="1739812653008" MODIFIED="1739812654513"/>
 <node TEXT="SQL" ID="ID_1923532393" CREATED="1739812655308" MODIFIED="1739812657462"/>
@@ -788,7 +788,7 @@
 <node TEXT="JavaScript" ID="ID_1161811971" CREATED="1739812700470" MODIFIED="1739812705610"/>
 <node TEXT="Jupyter (notebook)" ID="ID_38899686" CREATED="1739812708005" MODIFIED="1739812720936"/>
 </node>
-<node TEXT="Bibliotecas de funciones y programas" ID="ID_132154775" CREATED="1739812735357" MODIFIED="1739812745626">
+<node TEXT="Bibliotecas de funciones y programas" FOLDED="true" ID="ID_132154775" CREATED="1739812735357" MODIFIED="1739812745626">
 <node TEXT="Python" FOLDED="true" ID="ID_1956365543" CREATED="1739812746399" MODIFIED="1739812752163">
 <node TEXT="Matplotlib" ID="ID_1037525368" CREATED="1739812752648" MODIFIED="1739812761634"/>
 <node TEXT="NLTK (Natural Language Toolkit)" ID="ID_782883611" CREATED="1739812762134" MODIFIED="1739812791551"/>
@@ -811,7 +811,7 @@
 <node TEXT="D3.js" ID="ID_1059470669" CREATED="1739812896415" MODIFIED="1739812900550"/>
 </node>
 </node>
-<node TEXT="Aprendizaje automático y profundo" ID="ID_1768346817" CREATED="1739812912229" MODIFIED="1739812923708">
+<node TEXT="Aprendizaje automático y profundo" FOLDED="true" ID="ID_1768346817" CREATED="1739812912229" MODIFIED="1739812923708">
 <node TEXT="Tensorflow" ID="ID_609830105" CREATED="1739812926003" MODIFIED="1739812930080"/>
 <node TEXT="Keras" ID="ID_931401077" CREATED="1739812930527" MODIFIED="1739812934518"/>
 <node TEXT="PyTorch" ID="ID_1378119715" CREATED="1739812934998" MODIFIED="1739812939970"/>
@@ -821,16 +821,16 @@
 <node TEXT="BigML" ID="ID_487060830" CREATED="1739812960602" MODIFIED="1739812964955"/>
 <node TEXT="DataRobot" ID="ID_1654336858" CREATED="1739812966838" MODIFIED="1739812977219"/>
 </node>
-<node TEXT="Marcos de trabajo (frameworks)" ID="ID_414918051" CREATED="1739812982314" MODIFIED="1739812992995">
+<node TEXT="Marcos de trabajo (frameworks)" FOLDED="true" ID="ID_414918051" CREATED="1739812982314" MODIFIED="1739812992995">
 <node TEXT="Apache Hadoop" ID="ID_967414760" CREATED="1739812993638" MODIFIED="1739813001433"/>
 <node TEXT="Apache Spark" ID="ID_1351895699" CREATED="1739813002027" MODIFIED="1739813005724"/>
 </node>
 </node>
 <node TEXT="Portal Kaggle (caso de estudio en ciencia de datos)" ID="ID_1753363377" CREATED="1739813013332" MODIFIED="1739813037235"/>
 </node>
-<node TEXT="ANALÍTICA DE DATOS" POSITION="bottom_or_right" ID="ID_1917176760" CREATED="1739835677938" MODIFIED="1739835741060">
+<node TEXT="ANALÍTICA DE DATOS" FOLDED="true" POSITION="bottom_or_right" ID="ID_1917176760" CREATED="1739835677938" MODIFIED="1739835741060">
 <edge COLOR="#ff0000"/>
-<node TEXT="¿Qué es la Analítica de Datos? (Data Analytics)" ID="ID_1751853007" CREATED="1739835742546" MODIFIED="1739835787825">
+<node TEXT="¿Qué es la Analítica de Datos? (Data Analytics)" FOLDED="true" ID="ID_1751853007" CREATED="1739835742546" MODIFIED="1739835787825">
 <node TEXT="Según ISACA" FOLDED="true" ID="ID_1549232341" CREATED="1739835827074" MODIFIED="1739835832432">
 <node TEXT="Implica los procesos y actividades diseñados para obtener y evaluar datos para extraer información útil" ID="ID_1234306254" CREATED="1739835863353" MODIFIED="1739835919539"/>
 </node>
@@ -994,7 +994,7 @@
 <node TEXT="Domo" ID="ID_1615815810" CREATED="1739840171868" MODIFIED="1739840173772"/>
 </node>
 </node>
-<node TEXT="Una visión global de la Analítica de Big Data" ID="ID_666316732" CREATED="1739840184742" MODIFIED="1739840219920">
+<node TEXT="Una visión global de la Analítica de Big Data" FOLDED="true" ID="ID_666316732" CREATED="1739840184742" MODIFIED="1739840219920">
 <node TEXT="Adquisión o ingesta de datos" ID="ID_1195922408" CREATED="1739840226683" MODIFIED="1739840235204"/>
 <node TEXT="Procesamiento de la información" ID="ID_907402147" CREATED="1739840235428" MODIFIED="1739840250207"/>
 <node TEXT="Análisis" ID="ID_753119225" CREATED="1739840251284" MODIFIED="1739840254885"/>
